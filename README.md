@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp; Sobre Mim :
 
-Sou backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+Futuro Desenvolvedor Backend   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 Estou estudando como criador de Software e contribuindo com front-end e back-end para a construção de aplicações web..
 - 🌱 Explorando a area de DataScience e Machine Learning.
@@ -33,9 +33,9 @@ Sou backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonardo Alberto0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo Alberto0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
