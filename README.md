@@ -17,7 +17,6 @@ Sou backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🔭 Estou estudando como criador de Software e contribuindo com front-end e back-end para a construção de aplicações web..
 - 🌱 Explorando a area de DataScience e Machine Learning.
 - ⚡ No meu tempo livre, gosto de criar aplicaçoes para expandir conhecimento.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alberto-855abb234/)
 
 ---
 
