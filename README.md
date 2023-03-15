@@ -38,6 +38,9 @@ Futuro Desenvolvedor Backend   <img src="https://media.giphy.com/media/WUlplcMpO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlberto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlberto)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 ---
 
 
